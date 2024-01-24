@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "Hareket": "LAT PULLDOWN",
+            "KASGRUBU": "SIRT,BİCEPS",
+            "poster": "https://thumbsnap.com/i/iLp7mmbX.png ",
+            "videoUrl": "https://thumbsnap.com/i/Zmf5bk8Q.mp4",
+            "webSite":"https://workoutgo.github.io/upper-body/lat-pulldown-variations-with-dumbbells/",
+            "Metin":"Sırt ve Kanat kaslarını güçlendirmek için kullanılan en popüler egzersizlerden biri olan, Lat Pulldown nasıl yapılır.",
+            "HareketSlayder": [
+                "https://thumbsnap.com/i/p18aZrmb.png",
+                "https://thumbsnap.com/i/6WUS8BMp.png"
+                
+            ]
+        },
+        {
+            "Hareket": "SQUAT",
+            "KASGRUBU": "BACAK, KALÇA",
+            "poster": "https://thumbsnap.com/i/C8ihDPkF.png",
+            "videoUrl": "https://thumbsnap.com/i/KmLv2w6s.mp4",
+            "webSite":"https://sporium.net/squat/",
+            "Metin":"Squat, neredeyse herkesin egzersiz planının bir parçası olması gereken bir egzersizdir. Uygulaması kolaydır,",
+            "HareketSlayder": [
+                "https://thumbsnap.com/i/R5dUUpGG.png",
+                "https://thumbsnap.com/i/6VRze2L9.png"
+            ]
+        },
+        {
+            "Hareket": "MACHİNE SHOULDER PRESS",
+            "KASGRUBU": "OMUZ, TRİCEPS",
+            "poster": "https://thumbsnap.com/i/dxepyWbH.png",
+            "videoUrl": "https://thumbsnap.com/i/zm8azs3g.mp4",
+            "webSite":"https://sporium.net/dumbbell-shoulder-press/",
+            "Metin":"Omuz egzersizleri, Shoulder Press nasıl yapılır, Dumbbell Shoulder Press nereyi çalıştırır ve hangi kas gruplarını etkiler.",
+            "HareketSlayder": [
+                "https://thumbsnap.com/i/MhHcrors.png",
+                "https://thumbsnap.com/i/PtRKTGpa.png"
+            ]
+        },
+
+        {
+            "Hareket": "ROMANİAN DEADLİFT",
+            "KASGRUBU": "SIRT, BACAK, KALÇA",
+            "poster": "https://thumbsnap.com/i/hWAEc59E.png",
+            "videoUrl": "https://thumbsnap.com/i/CqBfHpDR.mp4",
+            "webSite":"https://sporium.net/dumbbell-romanian-deadlift/",
+            "Metin":"Diğer egzersizlerde form kullanımını geliştirdiği için, hem sporcular hem de spor salonuna gidenler için mükemmel bir alt vücut bileşik egzersizi olarak kabul edilir.",
+            "HareketSlayder": [
+                "https://thumbsnap.com/i/nGbyAWC6.png",
+                "https://thumbsnap.com/i/EcUaPqwK.png"
+            ]
+        },
+
+        {
+            "Hareket": "BENCH PRESS",
+            "KASGRUBU": "GÖGÜS, OMUZ, TRİCEPS",
+            "poster": "https://thumbsnap.com/i/ZDx5SpNL.png",
+            "videoUrl": "https://thumbsnap.com/i/nq34NHLJ.mp4 ",
+            "webSite":"https://sporium.net/barbell-bench-press/",
+            "Metin":"Bench press gögüs omuz ve arka kol kaslarını beraber çalıştıran mükemmel bir egzersizdir. Nasıl yapılır?.",
+            "HareketSlayder": [
+                "https://thumbsnap.com/i/wUwbWLhz.png ",
+                "https://thumbsnap.com/i/vLRRRWSR.png "
+            ]
+        }
+
+    ]
+}
